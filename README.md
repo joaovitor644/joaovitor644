@@ -44,7 +44,7 @@ My name is João Vitor, I'm a programmer looking to learn new technologies and w
  <div  align="center">
  <a href="https://github.com/joaovitor644">
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovitor644&hide_border=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor644&layout=compact&count_private=true&hide_border=true&theme=github_dark&show_icons=true">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor644&layout=compact&count_private=true&langs_count=10&hide_border=true&theme=github_dark&show_icons=true">
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=joaovitor644&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" /></a>
 </div>
 <hr>
