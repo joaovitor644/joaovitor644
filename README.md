@@ -28,7 +28,6 @@ My name is João Vitor, I'm a programmer looking to learn new technologies and w
 - 🌱 I’m currently learning Web Developer
 - 👯 I’m looking to collaborate on my repositories
 - 🤔 I’m looking for help with my studies
-- 📫 How to reach me: JV644@protonmail.com 
 <br/>
 
 
