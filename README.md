@@ -8,15 +8,16 @@ My name is João Vitor, I'm a programmer passionate about learning new technolog
 In my free time, I participate in coding challenges on platforms like BeeCrowd and explore new programming languages and paradigms. I am eager to collaborate with other developers, share knowledge, and learn from their experiences.
 
 <br/>
-<div align="center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovitor644&hide_border=true&show_icons=true&theme=github_light&include_all_commits=true&count_private=true"/> &nbsp;
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor644&layout=compact&count_private=true&langs_count=5&hide_border=true&theme=github_light&show_icons=true">
-   </div>
-<div align="center">
-  <a href="https://github.com/joaovitor644">
- 
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=joaovitor644&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<div style="display: flex; justify-content: center;">
+
+  <a href="https://github.com/joaovitor644/github-readme-stats" >
+    <img style="width: 31em;" src="https://github-readme-stats.vercel.app/api?username=joaovitor644&show_icons=true&theme=radical&rank_icon=github" alt="joaovitor644 GitHub stats">
   </a>
+  
+  <a href="https://github.com/joaovitor644/github-readme-stats">
+    <img style="width: 25em; height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor644&langs_count=6&layout=compact&theme=radical" alt="Top Langs">
+  </a>
+  
 </div>
 <hr>
 <div>
