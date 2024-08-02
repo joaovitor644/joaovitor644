@@ -5,8 +5,6 @@
 
 My name is João Vitor, I'm a programmer passionate about learning new technologies and working in the programming field. I enjoy solving complex problems and strive to continuously improve my skills. My current focus areas include Cybersecurity, Data Science, and Programming. 
 
-In my free time, I participate in coding challenges on platforms like BeeCrowd and explore new programming languages and paradigms. I am eager to collaborate with other developers, share knowledge, and learn from their experiences.
-
 <br/>
 <div style="display: flex; justify-content: center;">
 
