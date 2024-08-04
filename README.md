@@ -13,23 +13,15 @@ My name is João Vitor, I'm a programmer passionate about learning new technolog
   </a>
   
   <a href="https://github.com/joaovitor644/github-readme-stats">
-    <img style="width: 25em; height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor644&langs_count=6&layout=compact&theme=radical" alt="Top Langs">
+    <img style="width: 29em; height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor644&langs_count=6&layout=compact&theme=radical" alt="Top Langs" >
   </a>
   
 </div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitor644&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="joaovitor644's Github Activity Graph" width="100%">
+</div>
 <hr>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  style="height:48px;width:48px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:48px;width:48px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:48px;width:48px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:48px;width:48px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  style="height:48px;width:48px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:48px;width:48px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:48px;width:48px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:48px;width:48px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:48px;width:48px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:48px;width:48px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:48px;width:48px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:48px;width:48px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="height:48px;width:48px;" />
+  <img src="https://skillicons.dev/icons?i=git,docker,github,nodejs,flask,html,css,js,react,java,c,py,md,postgresql,linux," alt="skills logos" />
 </div>
