@@ -9,7 +9,7 @@ My name is João Vitor, I'm a programmer passionate about learning new technolog
 <div style="display: flex; justify-content: center;">
 
   <a href="https://github.com/joaovitor644/github-readme-stats" >
-    <img style="width: 31em;" src="https://github-readme-stats.vercel.app/api?username=joaovitor644&show_icons=true&theme=radical&rank_icon=github" alt="joaovitor644 GitHub stats">
+    <img style="width: 31em;" src="https://github-readme-stats.vercel.app/api?username=joaovitor644&show_icons=true&theme=radical" alt="joaovitor644 GitHub stats">
   </a>
   
   <a href="https://github.com/joaovitor644/github-readme-stats">
