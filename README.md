@@ -23,5 +23,5 @@ My name is João Vitor, I'm a programmer passionate about learning new technolog
 </div>
 <hr>
 <div>
-  <img src="https://skillicons.dev/icons?i=git,docker,github,nodejs,flask,html,css,js,react,java,c,py,md,postgresql,linux," alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,docker,github,nodejs,flask,react,html,css,js,java,c,py,md,postgresql,linux," alt="skills logos" />
 </div>
